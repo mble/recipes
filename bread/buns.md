@@ -1,6 +1,6 @@
 # Buns
 
-Enriched dough (egg and butter). Brioche/_pain au lait_ hybrid. Similar to _shokupan_ + butter.
+Enriched dough (egg and butter). Brioche/_pain au lait_ hybrid. Similar to _shokupan_ + butter. 61% hydration.
 
 Don't skimp on the milk, eggs, or butter. Use the good stuff. I like: The Estate Dairy for milk, Cacklebean or Rhug Estate for eggs and President for butter, though if you can get the cultured stuff (from Ampersand Dairy or Beurre d'Isigny), go for it.
 
@@ -12,8 +12,8 @@ Makes 6 ~100g buns.
 
 |                              | Weight | Baker's % |
 | ---------------------------- | ------ | --------- |
-| Bread flour (12-13% protein) | 340g   | 100%      |
-| Whole milk                   | 180g   | 52.9%     |
+| Bread flour (12-13% protein) | 340g   | 100       |
+| Whole milk                   | 180g   | 52.9      |
 | Egg                          | 75g    | 22.1      |
 | Butter                       | 42g    | 12.4      |
 | Granulated sugar             | 35g    | 10.3      |
@@ -82,6 +82,6 @@ Makes 6 ~100g buns.
 
 These buns stay soft and squishy for up to a week thanks to the _tangzhong_, and I find they are even better after a day of rest, but so aren't we all.
 
-I've previously made these with half the sugar, and although less sweet, lacked the characteristic chesnut colour and were somewhat more crumbly.
+I've previously made these with half the sugar, and although less sweet, lacked the characteristic chestnut colour and were somewhat more crumbly.
 
 As an experiment, I want to try this recipe with honey instead of sugar.
