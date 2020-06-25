@@ -33,6 +33,7 @@ You can add toppings, such as sliced grape tomatoes or pitted olives, but my pre
 550g Bread flour  
 435g Water  
 2g Instant yeast  
+13g fine sea salt
 Extra virgin olive oil
 
 ### Toppings
