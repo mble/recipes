@@ -30,7 +30,7 @@ A _pan medianoche_ can be made based on this recipe, adding eggs and sugar for a
 |                              | Weight | Baker's % |
 | ---------------------------- | ------ | --------- |
 | Bread flour (12-13% protein) | 435g   | 100       |
-| Water                        | 300g   | 69        |
+| Water                        | 280g   | 65        |
 | Lard                         | 50g    | 11.5      |
 | Instant yeast                | 10g    | 2.3       |
 | Fine sea salt                | 6g     | 1.4       |
@@ -48,7 +48,7 @@ A _pan medianoche_ can be made based on this recipe, adding eggs and sugar for a
 375g bread flour
 8g instant yeast
 6g fine sea salt
-240g water
+220g water
 50g lard @ 20C – 23C
 
 ## Method
