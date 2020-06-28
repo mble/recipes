@@ -14,19 +14,6 @@ A _pan medianoche_ can be made based on this recipe, adding eggs and sugar for a
 
 ## Ingredients
 
-### Weissman
-
-|                              | Weight | Baker's % |
-| ---------------------------- | ------ | --------- |
-| Bread flour (12-13% protein) | 500g   | 100       |
-| Water                        | 350g   | 70        |
-| Lard                         | 30g    | 6         |
-| Granulated sugar             | 13g    | 2.6       |
-| Instant yeast                | 10g    | 2         |
-| Fine sea salt                | 5g     | 1         |
-
-### Cook's Country
-
 |                              | Weight | Baker's % |
 | ---------------------------- | ------ | --------- |
 | Bread flour (12-13% protein) | 435g   | 100       |
@@ -34,22 +21,24 @@ A _pan medianoche_ can be made based on this recipe, adding eggs and sugar for a
 | Lard                         | 50g    | 11.5      |
 | Instant yeast                | 10g    | 2.3       |
 | Fine sea salt                | 6g     | 1.4       |
+| Sugar                        | 5g     | 1.1       |
 
 ## Components
 
 ### Pre-ferment
 
-60g water
-60g bread flour
-2g instant yeast
+60g Water
+60g Bread flour
+2g Instant yeast
 
 ### Dough
 
-375g bread flour
-8g instant yeast
-6g fine sea salt
-220g water
-50g lard @ 20C – 23C
+375g Bread flour
+8g Instant yeast
+5g Sugar
+6g Fine sea salt
+220g Water
+50g Lard @ 20C – 23C
 
 ## Method
 
@@ -88,9 +77,8 @@ A note: this takes place over ~24 hours, with about 12-16 hours of developing th
 19. Bake at 230C for 20 minutes.
     - If using the disposable tin, remove the tin with tongs.
     - If introducing mist, mist the inside of the oven after the loaves have been placed inside and quickly shut the oven door.
-20. Bake for a further 10 minutes, until the loaves are a light golden brown and the inside temperature registers 98C on an instant read thermometer.
-    – Watch yourself if introducing steam!
-21. Transfer to a wire rack and let cool completely if using for sandwiches, or for 30 – 45 minutes to eat warm.
+    - Target temperature: 98C on an instant read thermometer.
+20. Transfer to a wire rack and let cool completely if using for sandwiches, or for 30 – 45 minutes to eat warm.
 
 ## Notes
 
