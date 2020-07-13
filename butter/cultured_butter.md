@@ -2,6 +2,8 @@
 
 What could be more wonderful than yellow gold, cultured butter? Straightforward to make, and produces buttermilk as a side effect, which is somewhat hard to get in the UK.
 
+I like to use The Estate Dairy's double cream, which is closer to 49% fat. I've tried this with a few different starter cultures, and don't really have a preference (though my partner heavily prefers Bulgarian yogurt).
+
 ## Servings
 
 ~500g of cultured butter
@@ -30,5 +32,8 @@ What could be more wonderful than yellow gold, cultured butter? Straightforward 
 9. Strain through a sieve, reserving both popcorn butter and buttermilk.
    - Buttermilk will keep for ~12 days in the fridge.
 10. Quickly knead the popcorn butter on a cold, clean surface using the heels of your hands. Ensure hands are cold with ice water.
+
+    - Alternatively, you can "wash" the butter in ice water, changing the ice water regularly, until the water runs clear.
+
 11. When no more buttermilk is expelled, knead in salt to taste until final excess of moisture is expelled.
 12. Divide into 5 equal pieces and form into 5 ~100g pucks. Wrap in wax paper and store in the fridge for up to 3 weeks.

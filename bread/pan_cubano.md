@@ -27,17 +27,17 @@ A _pan medianoche_ can be made based on this recipe, adding eggs and sugar for a
 
 ### Pre-ferment
 
-60g Water
-60g Bread flour
+60g Water  
+60g Bread flour  
 2g Instant yeast
 
 ### Dough
 
-375g Bread flour
-8g Instant yeast
-5g Sugar
-6g Fine sea salt
-220g Water
+375g Bread flour  
+8g Instant yeast  
+5g Sugar  
+6g Fine sea salt  
+220g Water  
 50g Lard @ 20C – 23C
 
 ## Method

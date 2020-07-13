@@ -2,7 +2,7 @@
 
 Enriched dough (egg and butter). Brioche/_pain au lait_ hybrid. Similar to _shokupan_ + butter. 61% hydration.
 
-Don't skimp on the milk, eggs, or butter. Use the good stuff. I like: The Estate Dairy for milk, Cacklebean or Rhug Estate for eggs and President for butter, though if you can get the cultured stuff (from Ampersand Dairy or Beurre d'Isigny), go for it.
+Don't skimp on the milk, eggs, or butter. Use the good stuff. I like: The Estate Dairy for milk, Cacklebean or Rhug Estate for eggs and President for butter.
 
 ## Servings
 
